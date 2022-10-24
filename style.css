@@ -12,6 +12,14 @@
   height: 50%;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 body {
   background-color: lightblue;
 }
@@ -24,11 +32,4 @@ h1 {
 p {
   font-family: arial;
   font-size: 20px;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
